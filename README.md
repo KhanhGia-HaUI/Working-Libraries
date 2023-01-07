@@ -1,6 +1,6 @@
-# Foobar
+# Libraries
 
-A working libraries for TypeScript
+A working libraries for TypeScript, will be updating in the future
 
 ## Installation
 
