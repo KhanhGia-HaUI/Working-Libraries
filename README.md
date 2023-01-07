@@ -10,6 +10,9 @@ Install the TypeScript Script along with TypeScript modules in NodeJS
 npm i typescript
 ```
 
+```bash
+npm i best-effort-json-parser
+```
 ## Usage
 
 ```javascript
