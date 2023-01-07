@@ -13,7 +13,7 @@ npm i typescript
 ## Usage
 
 ```javascript
-const lib = require('file-system')
+const lib = require('./file-system')
 
 lib.getAllFiles(dir)
 ```
