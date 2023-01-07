@@ -4,7 +4,7 @@ A working libraries for TypeScript, will be updating in the future
 
 ## Installation
 
-Install the TypeScript Script along with the TypeScript in NodeJS
+Install the TypeScript Script along with TypeScript modules in NodeJS
 
 ```bash
 npm i typescript
