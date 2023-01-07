@@ -16,6 +16,7 @@ For better JSON Parsing, you should install "best-effort-json-parser"
 npm i best-effort-json-parser
 ```
 ## Usage
+This is just an example. You can change everything in the source code to suitable for your purpose. I will update it when I have time.
 
 ```javascript
 const lib = require('./file-system')
