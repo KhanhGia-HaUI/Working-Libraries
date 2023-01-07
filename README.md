@@ -10,6 +10,8 @@ Install the TypeScript Script along with TypeScript modules in NodeJS
 npm i typescript
 ```
 
+For better JSON Parsing, you should install "best-effort-json-parser"
+
 ```bash
 npm i best-effort-json-parser
 ```
