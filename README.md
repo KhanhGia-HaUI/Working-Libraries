@@ -25,7 +25,7 @@ const lib = require('./file-system')
 lib.getAllFiles(dir)
 ```
 ```bash
-node main.js [any file directory] 
+node main.ts [any file directory] 
 ```
 ## License
 
